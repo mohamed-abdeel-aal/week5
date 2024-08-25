@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1724618474 source:c:\users\dell\desktop\c++\wee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
